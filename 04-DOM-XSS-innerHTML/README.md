@@ -28,7 +28,7 @@ I started with analysing website properly.
 
 ![](2026-05-03-18-50-39.png) 
 
-I used `<hi>Naman<hi>` payload to discover is this website is vulnerable.It shows My name in capital letters which proves that this website is executing my html code.
+I used `<hi>Naman<hi>` payload to discover If this website is vulnerable?.It shows My name in capital letters which proves that this website is executing my html code.
 
 ![](2026-05-03-18-51-50.png) 
 
