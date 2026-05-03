@@ -29,15 +29,17 @@ There is a site of where there are different blogs and there is a search bar to 
 
 ## Exploitation Steps
 
+In this after analysing i tried a html script with a alert in it.
+
 ![](2026-05-02-14-14-45.png) 
 
-In this after analysing i tried a html script with a alert in it.
+This alert pop up shows that this site is vulnerable to reflected xss as whatever code we are writing in the search bar it simply pop up in a site
 
 ![](2026-05-02-14-16-58.png) 
 
 ## Proof of Completion
 
-This alert pop up shows that this site is vulnerable to reflected xss as whatever code we are writing in the search bar it simply pop up in a site 
+Lab is solved.
 
 ![](2026-05-02-14-22-40.png) 
 
