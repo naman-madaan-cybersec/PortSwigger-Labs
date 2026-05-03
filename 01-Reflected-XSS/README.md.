@@ -23,9 +23,9 @@ This lab contains a simple reflected cross-site scripting vulnerability in the s
 
 ## Reconnaissance & Analysis
 
-![](2026-05-02-14-08-53.png)
+There is a site of where there are different blogs and there is a search bar to search for any blog in which i analyse that maybe in this search bar there is a possibility that this website is vulnerable to reflected xss
 
-There is a site of where there are different blogs and there is a search bar to search for any blog in which i analyse that maybe in this search bar there is a possibility that this website is vulnerable to reflected xss 
+![](2026-05-02-14-08-53.png)
 
 ## Exploitation Steps
 
