@@ -1,6 +1,6 @@
 # Web Security & Penetration Testing Portfolio
 
-Hello! 👋 Welcome to my personal cybersecurity lab diary. 
+Hello! Welcome to my personal cybersecurity lab diary. 
 
 This repository is a live documentation of my practical training in Web Application Security and VAPT. I am currently working my way through the **PortSwigger Web Security Academy** challenges. 
 
