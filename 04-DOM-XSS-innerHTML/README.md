@@ -17,7 +17,7 @@ This lab contains a DOM-based cross-site scripting vulnerability in the search b
 
 ## References/Concepts used  
 
-**Vulnerability**: [There is a vulmerability of  DOM XSS]
+**Vulnerability**: [There is a vulnerability of  DOM XSS]
 **Tools Used**:[Browser Developer Tools (Brave)]
 **Referenced used**: [Portswigger web security academy XSS: Notes,]
 
