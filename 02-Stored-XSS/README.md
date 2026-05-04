@@ -16,7 +16,7 @@ This lab contains a stored cross-site scripting vulnerability in the comment fun
 
 ## References/Concepts used  
 
-**Vulnerability**: [There is a vulmerability of  Stored XSS]
+**Vulnerability**: [There is a vulnerability of  Stored XSS]
 **Tools Used**: [brave browser]
 **Referenced used**: [Portswigger web security academy XSS: Notes ]
 
