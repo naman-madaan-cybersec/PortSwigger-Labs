@@ -16,7 +16,7 @@ This lab contains a simple reflected cross-site scripting vulnerability in the s
 
 ## References/Concepts used  
 
-**Vulnerability**: [There is a vulmerability of  Reflected XSS]
+**Vulnerability**: [There is a vulnerability of  Reflected XSS]
 **Tools Used**: [brave browser]
 **Referenced used**: [Portswigger web security academy XSS: Notes ]
 
