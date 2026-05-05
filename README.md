@@ -15,8 +15,8 @@ This repository is a live documentation of my practical training in Web Applicat
 | **01** | Reflected XSS with nothing encoded | HTML | ✅ Solved | [View Write-up](./01-Reflected-XSS/README.md) |
 | **02** | Stored XSS with nothing encoded | HTML | ✅ Solved | [View Write-up](./02-Stored-XSS/README.md) |
 | **03** | DOM XSS in document.write sink | location.search | ✅ Solved | [View Write-up](./03-DOM-XSS-document-write/README.md) |
-| **04** | DOM XSS in innerHTML sink | location.search | ✅ Solved | [View Write-up](./04-DOM-XSS-innerHTML) |
-| **05** | DOM XSS in jQuery anchor href attribute sink | location.search | ✅ Solved | [View Write-up](./05-DOM-XSS-JQuery) |
+| **04** | DOM XSS in innerHTML sink | location.search | ✅ Solved | [View Write-up](./04-DOM-XSS-innerHTML/README.md) |
+| **05** | DOM XSS in jQuery anchor href attribute sink | location.search | ✅ Solved | [View Write-up](./05-DOM-XSS-JQuery/README.md) |
 
 ---
 **Author:** Naman Madaan
